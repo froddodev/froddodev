@@ -16,7 +16,7 @@
 
 **Security • Backend Architecture • Labs**
 
-### Currently Exploring
+### Learning
 
   <p>
     <img alt="Nim" src="https://img.shields.io/badge/Nim-%23FFE953.svg?style=flat&logo=nim&logoColor=white">
