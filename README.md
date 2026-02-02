@@ -2,8 +2,6 @@
 
 > I'm froddodev, a developer passionate about secure code, cybersecurity, and low-level programming.
 
-  <br>
-
 ### Stack
 
   <p>
@@ -16,11 +14,7 @@
     <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black">
   </p>
 
-  <br>
-
 **Security • Backend Architecture • Labs**
-
-  <br>
 
 ### Currently Exploring
 
